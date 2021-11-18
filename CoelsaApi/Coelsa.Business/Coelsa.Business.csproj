@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Coelsa.Data\Coelsa.Data.csproj" />
+    <ProjectReference Include="..\Coelsa.Dto\Coelsa.Dto.csproj" />
+  </ItemGroup>
+
+</Project>

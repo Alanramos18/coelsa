@@ -1,0 +1,14 @@
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Business\bin\Debug\netcoreapp3.1\Coelsa.Business.deps.json
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Business\bin\Debug\netcoreapp3.1\Coelsa.Business.dll
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Business\bin\Debug\netcoreapp3.1\Coelsa.Business.pdb
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Business\bin\Debug\netcoreapp3.1\Coelsa.Data.dll
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Business\bin\Debug\netcoreapp3.1\Coelsa.Dto.dll
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Business\bin\Debug\netcoreapp3.1\Coelsa.Data.pdb
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Business\bin\Debug\netcoreapp3.1\Coelsa.Dto.pdb
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Business\obj\Debug\netcoreapp3.1\Coelsa.Business.csprojAssemblyReference.cache
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Business\obj\Debug\netcoreapp3.1\Coelsa.Business.AssemblyInfoInputs.cache
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Business\obj\Debug\netcoreapp3.1\Coelsa.Business.AssemblyInfo.cs
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Business\obj\Debug\netcoreapp3.1\Coelsa.Business.csproj.CoreCompileInputs.cache
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Business\obj\Debug\netcoreapp3.1\Coelsa.Business.csproj.CopyComplete
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Business\obj\Debug\netcoreapp3.1\Coelsa.Business.dll
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Business\obj\Debug\netcoreapp3.1\Coelsa.Business.pdb

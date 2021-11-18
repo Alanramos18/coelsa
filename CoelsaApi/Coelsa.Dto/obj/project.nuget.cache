@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dYfYGhgtUP2Uple7IUyA4qwXvo6RBPM7kbIdApTnFJ7UWBy0TXU3YVNyOZGlW+5steSKsStohKaOjSPxwRxYyw==",
+  "success": true,
+  "projectFilePath": "H:\\Coelsa\\coelsa\\CoelsaApi\\Coelsa.Dto\\Coelsa.Dto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

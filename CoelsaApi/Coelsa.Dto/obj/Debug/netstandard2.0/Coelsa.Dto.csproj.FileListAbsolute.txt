@@ -1,0 +1,8 @@
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Dto\bin\Debug\netstandard2.0\Coelsa.Dto.deps.json
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Dto\bin\Debug\netstandard2.0\Coelsa.Dto.dll
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Dto\bin\Debug\netstandard2.0\Coelsa.Dto.pdb
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Dto\obj\Debug\netstandard2.0\Coelsa.Dto.AssemblyInfoInputs.cache
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Dto\obj\Debug\netstandard2.0\Coelsa.Dto.AssemblyInfo.cs
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Dto\obj\Debug\netstandard2.0\Coelsa.Dto.csproj.CoreCompileInputs.cache
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Dto\obj\Debug\netstandard2.0\Coelsa.Dto.dll
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Dto\obj\Debug\netstandard2.0\Coelsa.Dto.pdb

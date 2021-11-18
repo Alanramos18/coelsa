@@ -1,0 +1,12 @@
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Data\bin\Debug\netcoreapp3.1\Coelsa.Data.deps.json
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Data\bin\Debug\netcoreapp3.1\Coelsa.Data.dll
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Data\bin\Debug\netcoreapp3.1\Coelsa.Data.pdb
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Data\bin\Debug\netcoreapp3.1\Coelsa.Dto.dll
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Data\bin\Debug\netcoreapp3.1\Coelsa.Dto.pdb
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Data\obj\Debug\netcoreapp3.1\Coelsa.Data.csprojAssemblyReference.cache
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Data\obj\Debug\netcoreapp3.1\Coelsa.Data.AssemblyInfoInputs.cache
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Data\obj\Debug\netcoreapp3.1\Coelsa.Data.AssemblyInfo.cs
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Data\obj\Debug\netcoreapp3.1\Coelsa.Data.csproj.CoreCompileInputs.cache
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Data\obj\Debug\netcoreapp3.1\Coelsa.Data.csproj.CopyComplete
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Data\obj\Debug\netcoreapp3.1\Coelsa.Data.dll
+H:\Coelsa\coelsa\CoelsaApi\Coelsa.Data\obj\Debug\netcoreapp3.1\Coelsa.Data.pdb

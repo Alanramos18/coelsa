@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="JustMock" />
+    <PackageReference Include="NUnit" />
+    <PackageReference Include="NUnit3TestAdapter" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Coelsa.Business\Coelsa.Business.csproj" />
+    <ProjectReference Include="..\Coelsa.Dto\Coelsa.Dto.csproj" />
+    <ProjectReference Include="..\Coelsa.Web\Coelsa.Web.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Coelsa.Web</name>
+    </assembly>
+    <members>
+        <member name="M:Coelsa.Web.Controllers.ContactsController.CreateAsync(Coelsa.Dto.ContactsDto,System.Threading.CancellationToken)">
+            <summary>
+                Create a Contact
+            </summary>
+            <param name="contactsDto">Contact dto</param>
+            <param name="cancellationToken">Cancellation Transaction Token</param>
+            <returns></returns>
+        </member>
+        <member name="M:Coelsa.Web.Controllers.ContactsController.UpdateAsync(System.Int32,Coelsa.Dto.ContactsDto,System.Threading.CancellationToken)">
+            <summary>
+                Update a Contact
+            </summary>
+            <param name="id">Id of contact</param>
+            <param name="contactsDto">Contact dto</param>
+            <param name="cancellationToken">Cancellation Transaction Token</param>
+            <returns></returns>
+        </member>
+        <member name="M:Coelsa.Web.Controllers.ContactsController.DeleteAsync(System.Int32,System.Threading.CancellationToken)">
+            <summary>
+                Delete a Contact
+            </summary>
+            <param name="id">Id of contact</param>
+            <param name="cancellationToken">Cancellation Transaction Token</param>
+            <returns></returns>
+        </member>
+        <member name="M:Coelsa.Web.Controllers.ContactsController.GetAllAsync(System.Threading.CancellationToken)">
+            <summary>
+                Get all Contacts ordered by company
+            </summary>
+            <param name="cancellationToken">Cancellation Transaction Token</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
